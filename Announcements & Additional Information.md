@@ -36,7 +36,7 @@
 
      -    1. Sign up via WeChat @IHATETHEWORLD666 or X (Twitter) @yinxingcs
 
-     -    2. Registration information will be updated [here](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information)
+     -    2. Registration information will be updated [here](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information.md)
 
      -    3. Once you have signed up, FamilyX will provide payment details via WeChat or X (Twitter) direct messages (DMs)
 
