@@ -4,7 +4,7 @@
 
 -   Play-In Stage Dates: August 3, 2026 (Beijing Time)
 
--   Group stage Dates: August 4-5, 2026 (Beijing Time)
+-   Group Stage Dates: August 4-5, 2026 (Beijing Time)
 
 -   Playoffs Dates: August 6–13, 2026 (Beijing Time)
 
