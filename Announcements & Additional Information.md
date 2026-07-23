@@ -88,7 +88,7 @@
 
     -   2nd Place: 1/6 of the total prize pool
  
-## Integrity and Eligibility Rules
+## Integrity & Eligibility Rules
 
 -   Tournament Operator reserves the right to decline participation of teams or players with active VAC bans or any known integrity violations
 
