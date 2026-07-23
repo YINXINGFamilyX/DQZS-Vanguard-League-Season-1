@@ -44,37 +44,33 @@
 
 ## Play-In Stage
 
--   This stage will be held online
+-   Online
 
--   Format: 
+-   Single-Elimination bracket
 
-    -    Single-Elimination bracket
-
-    -    All matches are Bo1
+-   All matches are Bo1
 
 ## Group Stage
 
--   This stage will be held online
+-   Online
 
--   Format: 
+-   2 Round-Robin format groups
 
-    -    Two Round-Robin format groups
+-   All teams play each other once
 
-    -    All teams play each other once
+-   All matches are Bo1
 
-    -    All matches are Bo1
-
-    -    Top 2 teams from each group proceed to the Playoffs
+-   Top 2 teams from each group proceed to the Playoffs
 
 ## Playoffs
 
--   This stage will be held online
+-   Online
 
--   Format: 
+-   Double-Elimination bracket
 
-    -    Double-Elimination bracket
+-   All matches are Bo3
 
-    -    All matches are Bo3
+-   Invited 4 teams
 
 ## Prize Pool: 600 CNY
 
