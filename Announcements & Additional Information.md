@@ -80,13 +80,13 @@
 
 -   Prize Distribution
 
-    -   There are no additional compensations for teams or players outside of the prize pool
+-   There are no additional compensations for teams or players outside of the prize pool
 
-    -   Prize Breakdown
+-   Prize Breakdown
 
-        -   1st Place: 5/6 of the total prize pool
+    -   1st Place: 5/6 of the total prize pool
 
-        -   2nd Place: 1/6 of the total prize pool
+    -   2nd Place: 1/6 of the total prize pool
  
 ## Integrity and Eligibility Rules
 
