@@ -80,7 +80,7 @@
 
 -   Prize Distribution
 
-    -   There are no additional compensations for teams or players outside of the prize pool. 
+    -   There are no additional compensations for teams or players outside of the prize pool
 
     -   Prize Breakdown
 
