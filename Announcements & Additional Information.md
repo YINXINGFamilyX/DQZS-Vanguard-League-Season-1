@@ -62,6 +62,8 @@
 
 -   Top 2 teams from each group proceed to the Playoffs
 
+-   6 teams
+
 ## Playoffs
 
 -   Online
@@ -70,7 +72,7 @@
 
 -   All matches are Bo3
 
--   Invited 4 teams
+-   4 teams
 
 ## Prize Pool: 600 CNY
 
