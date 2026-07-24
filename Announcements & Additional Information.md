@@ -1,18 +1,26 @@
 ## DQZS Vanguard League Season 1 (DQZS先锋联赛)
 
--   Open Registration Period: July 24, 2026, 13:30 to August 3, 2026, 13:30 (Beijing Time)
+-   Tournament Schedule
 
--   Play-In Stage Dates: August 3, 2026 (Beijing Time)
+     -   All dates and times are in Beijing Time (UTC+8)
 
--   Group Stage Dates: August 4-5, 2026 (Beijing Time)
+     -   Open Registration Period: July 24, 2026, 13:30 to August 3, 2026, 13:30
 
--   Playoffs Dates: August 6–13, 2026 (Beijing Time)
+     -   Play-In Stage (Closed Qualifier): August 3, 2026
+
+     -   Group Stage (Main Event Phase 1): August 4–5, 2026
+
+     -   Playoffs (Main Event Phase 2): August 6–13, 2026 
 
 -   Tournament Operator: FamilyX
 
--   Tournament Valve Tier: Unranked Event
+     -   This tournament is independently organized and operated by FamilyX
 
--   Tournament Liquipedia Tier: Unlisted Event
+-   Tournament Classification
+
+    -   Valve: Unranked Event
+
+    -   Liquipedia: Unlisted Event
 
 ## Team Registration
 
@@ -32,9 +40,9 @@
 
      -   A team's registration is only considered complete once the corresponding registration fee has been successfully received. Registration order is determined by the time at which payment is successfully completed.
 
-     -   Refund Policy: If your team needs to withdraw from the tournament before August 3, 2026 (Beijing Time), we will try to replace your team with a team from the waiting list. If a replacement team is found, the full registration fee will be refunded. If a team withdraws or fails to lock in its lineup after August 3, 2026 (Beijing Time), no refund will be issued.
+     -   Refund Policy: If your team needs to withdraw from the tournament before August 3, 2026, we will try to replace your team with a team from the waiting list. If a replacement team is found, the full registration fee will be refunded. If a team withdraws or fails to lock in its lineup after August 3, 2026, no refund will be issued.
 
-     -   Any team unable to attend must notify the organizers before August 3, 2026 (Beijing Time). Teams that withdraw after August 3, 2026 (Beijing Time) or fail to attend will forfeit their registration slot and all scheduled matches. All such matches will be recorded as losses in the tournament bracket.
+     -   Any team unable to attend must notify the organizers before August 3, 2026. Teams that withdraw after August 3, 2026 (Beijing Time) or fail to attend will forfeit their registration slot and all scheduled matches. All such matches will be recorded as losses in the tournament bracket.
 
 -   Initial seeding will be determined according to the VRS list as of August 2026
 
