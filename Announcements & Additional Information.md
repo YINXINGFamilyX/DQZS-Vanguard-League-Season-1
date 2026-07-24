@@ -50,15 +50,17 @@
 
 -   Our event aligns with Valve Unranked Event requirements
 
-## Play-In Stage
+## Play-In Stage (Closed Qualifier)
 
 -   Online
+
+-   Features [up to 64 teams](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information.md)
 
 -   Single-Elimination bracket
 
 -   All matches are Bo1
 
-## Group Stage
+## Group Stage (Main Event Phase 1)
 
 -   Online
 
@@ -70,9 +72,13 @@
 
 -   Top 2 teams from each group proceed to the Playoffs
 
--   6 teams
+-   Features 6 teams
 
-## Playoffs
+    -   Includes 4 invited teams
+
+    -   Includes 2 teams qualified from the Play-In Stage (Closed Qualifier)
+
+## Playoffs (Main Event Phase 2)
 
 -   Online
 
@@ -80,11 +86,9 @@
 
 -   All matches are Bo3
 
--   4 teams
+-   Features 4 teams
 
-## Prize Pool: 600 CNY + 1 Qualification Slot
-
--   Prize Distribution
+## Prize Pool (600 CNY + 1 Qualification Slot)
 
 -   There are no additional compensations for teams or players outside of the prize pool.
 
