@@ -4,7 +4,7 @@
 
      -   All dates and times are in Beijing Time (UTC+8)
 
-     -   Open Registration Period: July 24, 2026, 13:30 to August 3, 2026, 13:30
+     -   Open Registration Period: July 24, 2026, 13:30 – August 3, 2026, 13:30
 
      -   Play-In Stage (Closed Qualifier): August 3, 2026
 
@@ -16,12 +16,15 @@
 
      -   This tournament is independently organized and operated by FamilyX
 
+-   Tournament Sponsors
+
+     -   DQZS
+
 -   Tournament Classification
 
     -   Valve: Unranked Event
 
     -   Liquipedia: Unlisted Event
-
 ## Team Registration
 
 -   No VRS filter and no VRS invitations; registration is open to all eligible teams on a first-come, first-served basis
@@ -42,7 +45,7 @@
 
      -   Refund Policy: If your team needs to withdraw from the tournament before August 3, 2026, we will try to replace your team with a team from the waiting list. If a replacement team is found, the full registration fee will be refunded. If a team withdraws or fails to lock in its lineup after August 3, 2026, no refund will be issued.
 
-     -   Any team unable to attend must notify the organizers before August 3, 2026. Teams that withdraw after August 3, 2026 (Beijing Time) or fail to attend will forfeit their registration slot and all scheduled matches. All such matches will be recorded as losses in the tournament bracket.
+     -   Any team unable to attend must notify the organizers before August 3, 2026. Teams that withdraw after August 3, 2026 or fail to attend will forfeit their registration slot and all scheduled matches. All such matches will be recorded as losses in the tournament bracket.
 
 -   Initial seeding will be determined according to the VRS list as of August 2026
 
@@ -100,7 +103,7 @@
 
 -   There are no additional compensations for teams or players outside of the prize pool.
 
--   Prize Breakdown
+-   Prize Distribution
 
     -   1st Place:
 
@@ -114,7 +117,7 @@
 
 ## Integrity & Eligibility Rules
 
--   Tournament Operator reserves the right to decline participation of teams or players with active VAC bans or any known integrity violations
+-   The Tournament Operator reserves the right to decline participation of teams or players with active VAC bans or any known integrity violations
 
 -   The full ruleset will be published and made available to all participants at least 1 day prior to the tournament start
 
