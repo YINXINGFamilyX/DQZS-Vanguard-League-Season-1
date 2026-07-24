@@ -1,5 +1,7 @@
 ## DQZS Vanguard League Season 1 (DQZS先锋联赛)
 
+<sub>*DQZS Vanguard League Season 1 (DQZS先锋联赛) is an online Chinese Counter-Strike 2 tournament organized by FamilyX*</sub>
+
 -   Tournament Schedule
 
      -   All dates and times are in Beijing Time (UTC+8)
