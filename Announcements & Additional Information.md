@@ -28,6 +28,14 @@
 
 -   A total of 64 teams will be accepted through open registration. Registration is only valid once the payment has been completed. Limited slots available
 
+     -   Registration Slot Pricing:
+
+          -   Slots 01–16: 30 CNY per team
+
+          -   Slots 17–32: 50 CNY per team
+
+          -   Slots 33–64: 70 CNY per team
+
 -   Initial seeding will be determined according to the VRS list as of August 2026
 
 -   Our event aligns with Valve Unranked Event requirements
