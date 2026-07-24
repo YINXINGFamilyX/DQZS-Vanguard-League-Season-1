@@ -16,39 +16,39 @@
 
 ## Team Registration
 
--   No VRS filter and no VRS invitations; all participants will be invited through open registration on a "First Come First Served" basis
+-   No VRS filter and no VRS invitations; registration is open to all eligible teams on a first-come, first-served basis
 
 -   The event is open to teams from the China Region, as defined in Valve's official rules & regulations
 
--   The registration fee per team: 30 CNY
+-   A maximum of 64 teams may register. Registration will close once all available slots have been filled.
 
-     -    Re-fund policy: If your team needs to withdraw from the tournament before August 3 (Beijing Time) we will try to replace your team with teams on the waiting list. If we find a replacement we will re-fund the full amount. If teams withdraw or fail to lock in lineup after August 3 (Beijing Time) no refund will be made
+     -   Registration Slot Fee Structure:
 
-     -    Any team unable to attend must notify the organizers before August 3 (Beijing Time); registration fees are non-refundable for no-shows or late withdrawals. If a team withdraws after August 3 (Beijing Time), they will automatically forfeit their spot and all scheduled matches. All such matches will be considered losses in the tournament structure
-
--   A total of 64 teams will be accepted through open registration. Registration is only valid once the payment has been completed. Limited slots available
-
-     -   Registration Slot Pricing:
-
-          -   Slots 01–16: 30 CNY per team
+          -   Slots 1–16: 30 CNY per team
 
           -   Slots 17–32: 50 CNY per team
 
           -   Slots 33–64: 70 CNY per team
 
--   Initial seeding will be determined according to the VRS list as of August 2026
+     -   A team's registration is only considered complete once the corresponding registration fee has been successfully received. Registration order is determined by the time at which payment is successfully completed.
 
--   Our event aligns with Valve Unranked Event requirements
+     -   Refund Policy: If your team needs to withdraw from the tournament before August 3, 2026 (Beijing Time), we will try to replace your team with a team from the waiting list. If a replacement team is found, the full registration fee will be refunded. If a team withdraws or fails to lock in its lineup after August 3, 2026 (Beijing Time), no refund will be issued.
+
+     -   Any team unable to attend must notify the organizers before August 3, 2026 (Beijing Time). Teams that withdraw after August 3, 2026 (Beijing Time) or fail to attend will forfeit their registration slot and all scheduled matches. All such matches will be recorded as losses in the tournament bracket.
+
+-   Initial seeding will be determined according to the VRS list as of August 2026
 
 -   Register through the following steps:
 
-     -    1. Sign up via WeChat @IHATETHEWORLD666 or X (Twitter) @yinxingcs
+     -   1. Sign up via WeChat @IHATETHEWORLD666 or X (Twitter) @yinxingcs
 
-     -    2. Registration information will be updated [here](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information.md)
+     -   2. Registration status and slot allocation will be updated [here](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information.md)
 
-     -    3. Once you have signed up, FamilyX will provide payment details via WeChat or X (Twitter) direct messages (DMs)
+     -   3. Once you have signed up, FamilyX will provide payment details via WeChat or X (Twitter) direct messages (DMs)
 
-     -    4. Pay for the registration fee within 30 minutes to lock in / secure your spot
+     -   4. Pay the registration fee within 30 minutes to secure your registration slot
+
+-   Our event aligns with Valve Unranked Event requirements
 
 ## Play-In Stage
 
