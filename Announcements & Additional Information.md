@@ -99,3 +99,11 @@
 -   Tournament Operator reserves the right to decline participation of teams or players with active VAC bans or any known integrity violations
 
 -   The full ruleset will be published and made available to all participants at least 1 day prior to the tournament start
+
+---
+
+> Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
+
+> Last updated: July 25, 2026
+
+> Editor: YINXING
