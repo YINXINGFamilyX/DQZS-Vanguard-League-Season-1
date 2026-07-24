@@ -82,18 +82,24 @@
 
 -   4 teams
 
-## Prize Pool: 600 CNY
+## Prize Pool: 600 CNY + 1 Qualification Slot
 
 -   Prize Distribution
 
--   There are no additional compensations for teams or players outside of the prize pool
+-   There are no additional compensations for teams or players outside of the prize pool.
 
 -   Prize Breakdown
 
-    -   1st Place: 5/6 of the total prize pool
+    -   1st Place:
 
-    -   2nd Place: 1/6 of the total prize pool
- 
+        - 5/6 of the total prize pool
+
+        - Direct qualification to the **YINXING x Future Star Festival Wildcard Closed Qualifier (银杏x明日之星嘉年华外卡封闭预选赛)**
+
+    -   2nd Place:
+
+        - 1/6 of the total prize pool
+
 ## Integrity & Eligibility Rules
 
 -   Tournament Operator reserves the right to decline participation of teams or players with active VAC bans or any known integrity violations
