@@ -1,5 +1,5 @@
 |序号 Number|注册时间 Registration Time (Beijing Time)|队伍 Team|注册状态 Registration Status|
-|:-------------:|:----------:|:-----------------:|:-----------------:|
+|:-------------:|:----------:|:---------:|:-----------------:|
 ||2026-07|~~Unfinished Piece~~|未付款 Payment Overdue ❌️|
 |1|2026-07-26 16:06|GLR|⭕️ 注册成功 Registration Confirmed|
 ||2026-07|~~Tianjin E9 Esports~~|未付款 Payment Overdue ❌️|
