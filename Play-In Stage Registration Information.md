@@ -9,7 +9,7 @@
 |3|2026-07-26 16:27|FSG.YMGD|⭕️ 注册成功 Registration Confirmed|
 |4|2026-07-26 16:31|Fudan University|⭕️ 注册成功 Registration Confirmed|
 |5|2026-07-26 16:45|YOUNG MAN GO DIE|⭕️ 注册成功 Registration Confirmed|
-|6|2026-07-26 16:47||⭕️ 注册成功 Registration Confirmed|
+|6|2026-07-26 16:47|YOUNG MOMENT GO DIE|⭕️ 注册成功 Registration Confirmed|
 |7|2026-07-26 16:53|One heart|⭕️ 注册成功 Registration Confirmed|
 |8||||
 |9||||
@@ -68,3 +68,11 @@
 |62||||
 |63||||
 |64||||
+
+---
+
+> Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
+
+> Last updated: July 26, 2026
+
+> Editor: YINXING
