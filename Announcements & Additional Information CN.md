@@ -1,6 +1,6 @@
 ## DQZS Vanguard League Season 1（大秦之水先锋联赛）
 
-<sub>*DQZS Vanguard League Season 1 是一项由 FamilyX 打造的中国赛区线上《反恐精英》电子竞技赛事。*</sub>
+<sub>*大秦之水先锋联赛S1是FamilyX打造的CN赛区线上反恐精英电子竞技赛事*</sub>
 
 * 赛事日程
 
