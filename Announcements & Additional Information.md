@@ -53,7 +53,7 @@
 
 -   Register through the following steps:
 
-     -   1. Sign up via WeChat @IHATETHEWORLD666 or X (Twitter) [@yinxingcs](https://x.com/yinxingcs)
+     -   1. Sign up via WeChat @yinxing060815 <del>@IHATETHEWORLD666</del> or X (Twitter) [@yinxingcs](https://x.com/yinxingcs)
 
      -   2. Registration status and slot allocation will be updated [here](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information.md)
 
@@ -127,6 +127,6 @@
 
 > Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
 
-> Last updated: July 25, 2026
+> Last updated: July 26, 2026
 
 > Editor: YINXING
