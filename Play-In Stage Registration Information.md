@@ -1,9 +1,12 @@
 |序号 Number|注册时间 Registration Time (Beijing Time)|队伍 Team|注册状态 Registration Status|
 |:-------------:|:----------:|:---------:|:-----------------:|
 ||2026-07|~~Unfinished Piece~~|未付款 Payment Overdue ❌️|
-|1|2026-07|Tianjin E9 Esports|等待付款 Awaiting Payment ❓️|
-|2|2026-07|FSG.YXG|等待付款 Awaiting Payment ❓️|
-|3|2026-07|HangXieYiQi YingYingGouGou|等待付款 Awaiting Payment ❓️|
+|1|2026-07-26 16:06|GLR|⭕️ 注册成功 Registration Confirmed|
+||2026-07|~~Tianjin E9 Esports~~|未付款 Payment Overdue ❌️|
+|2|2026-07-26 16:12|team bfsh|⭕️ 注册成功 Registration Confirmed|
+||2026-07|~~FSG.YXG~~|未付款 Payment Overdue ❌️|
+||2026-07|~~HangXieYiQi YingYingGouGou~~|未付款 Payment Overdue ❌️|
+|3||||
 |4||||
 |5||||
 |6||||
