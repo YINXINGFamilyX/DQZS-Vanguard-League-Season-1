@@ -7,7 +7,7 @@
 ||2026-07|~~FSG.YXG~~|未付款 Payment Overdue ❌️|
 ||2026-07|~~HangXieYiQi YingYingGouGou~~|未付款 Payment Overdue ❌️|
 |3|2026-07-26 16:27|FSG.YMGD|⭕️ 注册成功 Registration Confirmed|
-|4||||
+|4|2026-07-26 16:31|Fudan University Counter-Strike 2 Team|⭕️ 注册成功 Registration Confirmed|
 |5||||
 |6||||
 |7||||
