@@ -11,7 +11,7 @@
 |5|2026-07-26 16:45|YOUNG MAN GO DIE|⭕️ 注册成功 Registration Confirmed|
 |6|2026-07-26 16:47|YOUNG MOMENT GO DIE|⭕️ 注册成功 Registration Confirmed|
 |7|2026-07-26 16:53|One heart|⭕️ 注册成功 Registration Confirmed|
-|8||||
+|8|2026-07-26 17:17|Azure Rathalos|⭕️ 注册成功 Registration Confirmed|
 |9||||
 |10||||
 |11||||
