@@ -8,7 +8,7 @@
 ||2026-07|~~HangXieYiQi YingYingGouGou~~|未付款 Payment Overdue ❌️|
 |3|2026-07-26 16:27|FSG.YMGD|⭕️ 注册成功 Registration Confirmed|
 |4|2026-07-26 16:31|Fudan University|⭕️ 注册成功 Registration Confirmed|
-|5||||
+|5|2026-07-26 16:45|YOUNG MAN GO DIE|⭕️ 注册成功 Registration Confirmed|
 |6||||
 |7||||
 |8||||
