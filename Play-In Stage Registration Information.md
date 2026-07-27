@@ -14,9 +14,9 @@
 |8|2026-07-26 17:17|Azure Rathalos|⭕️ 注册成功 Registration Confirmed|
 |9|2026-07-26 19:11|Team Fantasy|⭕️ 注册成功 Registration Confirmed|
 |10|2026-07-26 20:24|Legendary Titanium Tomato|⭕️ 注册成功 Registration Confirmed|
-|11||||
-|12||||
-|13||||
+|11|2026-07-27 12:29|revolt|⭕️ 注册成功 Registration Confirmed|
+|12|2026-07-27 15:56|DISSOLVE|⭕️ 注册成功 Registration Confirmed|
+|13|2026-07-27 17:57|Tianjin E9 Esports|⭕️ 注册成功 Registration Confirmed|
 |14||||
 |15||||
 |16||||
