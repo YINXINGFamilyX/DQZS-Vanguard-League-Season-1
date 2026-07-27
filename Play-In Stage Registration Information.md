@@ -17,7 +17,7 @@
 |11|2026-07-27 12:29|revolt|⭕️ 注册成功 Registration Confirmed|
 |12|2026-07-27 15:56|DISSOLVE|⭕️ 注册成功 Registration Confirmed|
 |13|2026-07-27 17:57|Tianjin E9 Esports|⭕️ 注册成功 Registration Confirmed|
-|14||||
+|14|2026-07-27 19:34|Continue Evolution|⭕️ 注册成功 Registration Confirmed|
 |15||||
 |16||||
 |17||||
