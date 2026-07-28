@@ -18,10 +18,10 @@
 |12|2026-07-27 15:56|DISSOLVE|⭕️ 注册成功 Registration Confirmed|
 |13|2026-07-27 17:57|Tianjin E9 Esports|⭕️ 注册成功 Registration Confirmed|
 |14|2026-07-27 19:34|Continue Evolution|⭕️ 注册成功 Registration Confirmed|
-|15||||
-|16||||
-|17||||
-|18||||
+|15|2026-07-28 23:38|Passion TA|⭕️ 注册成功 Registration Confirmed|
+|16|2026-07-28 13:05|Starting From Ordinary|⭕️ 注册成功 Registration Confirmed|
+|17|2026-07-28 22:56||⭕️ 注册成功 Registration Confirmed|
+|18|2026-07-29 02:17||⭕️ 注册成功 Registration Confirmed|
 |19||||
 |20||||
 |21||||
