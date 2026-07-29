@@ -20,9 +20,9 @@
 |14|2026-07-27 19:34|Continue Evolution|⭕️ 注册成功 Registration Confirmed|
 |15|2026-07-28 23:38|Passion TA|⭕️ 注册成功 Registration Confirmed|
 |16|2026-07-28 13:05|Starting From Ordinary|⭕️ 注册成功 Registration Confirmed|
-|17|2026-07-28 22:56||⭕️ 注册成功 Registration Confirmed|
-|18|2026-07-29 02:17||⭕️ 注册成功 Registration Confirmed|
-|19||||
+|17|2026-07-28 22:56|?|⭕️ 注册成功 Registration Confirmed|
+|18|2026-07-29 02:17|xiange|⭕️ 注册成功 Registration Confirmed|
+|19|2026-07-29 13:37|Tactical Warden Esports|⭕️ 注册成功 Registration Confirmed|
 |20||||
 |21||||
 |22||||
