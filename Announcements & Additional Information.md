@@ -1,6 +1,6 @@
 ## DQZS Vanguard League Season 1 (大秦之水先锋联赛)
 
-<sub>*DQZS Vanguard League Season 1 is an online Chinese Counter-Strike tournament organized by FamilyX (大秦之水先锋联赛S1是FamilyX打造的CN赛区线上反恐精英电子竞技赛事)*</sub>
+<sub>*DQZS Vanguard League Season 1 is an online Chinese Counter-Strike tournament organized by FamilyX*</sub>
 
 -   Tournament Schedule
 
@@ -18,9 +18,11 @@
 
      -   This tournament is independently organized and operated by FamilyX
 
--   Tournament Sponsors
+-   Tournament Official Sponsors
 
      -   DQZS
+  
+     -   5EPlay
 
 -   Tournament Classification
 
