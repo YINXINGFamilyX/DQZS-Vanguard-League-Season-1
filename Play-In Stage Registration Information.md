@@ -23,56 +23,20 @@
 |17|2026-07-28 22:56|Be water|⭕️ 注册成功 Registration Confirmed|
 |18|2026-07-29 02:17|xiange|⭕️ 注册成功 Registration Confirmed|
 |19|2026-07-29 13:37|Tactical Warden Esports|⭕️ 注册成功 Registration Confirmed|
-|20||||
-|21||||
-|22||||
-|23||||
-|24||||
-|25||||
-|26||||
-|27||||
-|28||||
+|20|2026-08-30 20:38|team Eternal|⭕️ 注册成功 Registration Confirmed|
+|21|2026-08-01 10:49|Rare TYLOO Vision|⭕️ 注册成功 Registration Confirmed|
+|22|2026-08-01 21:47|K9 Gaming|⭕️ 注册成功 Registration Confirmed|
+|23|2026-08-01 23:20|Prepare For Dream|⭕️ 注册成功 Registration Confirmed|
+|24|||⭕️ 注册成功 Registration Confirmed|
+|25|||⭕️ 注册成功 Registration Confirmed|
+|26|||⭕️ 注册成功 Registration Confirmed|
+|27|2026-08-03 02:53|FSG.YXG|⭕️ 注册成功 Registration Confirmed|
+|28|2026-08-03 03:29|Diabetes|⭕️ 注册成功 Registration Confirmed|
 |29||||
 |30||||
-|31||||
-|32||||
-|33||||
-|34||||
-|35||||
-|36||||
-|37||||
-|38||||
-|39||||
-|40||||
-|41||||
-|42||||
-|43||||
-|44||||
-|45||||
-|46||||
-|47||||
-|48||||
-|49||||
-|50||||
-|51||||
-|52||||
-|53||||
-|54||||
-|55||||
-|56||||
-|57||||
-|58||||
-|59||||
-|60||||
-|61||||
-|62||||
-|63||||
-|64||||
 
 ---
 
 > Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
-
-> Last updated: July 27, 2026
 
 > Editor: YINXING
