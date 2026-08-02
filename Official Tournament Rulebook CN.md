@@ -257,7 +257,7 @@ BO1，BO3等比赛中，地图之间的休息时间由赛事方根据实际安�
 
 ---
 
-## 5.3 合谋（Collusion）
+## 5.3 合谋
 
 合谋是指两名或以上选手，队伍成员或相关人员，通过协议或其他方式，使比赛结果受到非正常影响的行为。
 
@@ -319,7 +319,7 @@ BO1，BO3等比赛中，地图之间的休息时间由赛事方根据实际安�
 
 ---
 
-## 5.7 窥屏（Stream Sniping）
+## 5.7 窥屏
 
 参赛人员不得通过：
 
@@ -472,7 +472,7 @@ Counter-Strike 2 最新正式版本。
 
 ---
 
-# 7.5 地图选择与禁用（Map Veto）
+# 7.5 地图选择与禁用
 
 所有比赛地图选择流程由赛事方统一规定。
 
@@ -751,13 +751,11 @@ A队与B队身份。
 
 包括但不限于：
 
-- Valve Anti-Cheat（VAC）Ban；
-- Perfect World Esports Ban；
+- FamilyX Ban；
+- Valve Anti-Cheat Ban；
+- Perfect World Ban；
 - 5EPlay Ban；
-- FACEIT Ban；
-- ESIC Sanction；
-- FamilyX Tournament Ban。
-
+- ESIC Sanction。
 
 ---
 
