@@ -128,6 +128,6 @@
 
 ---
 
-> 感谢您抽出时间阅读本文件。祝您在本次赛事中拥有愉快的参赛体验，度过美好的一天，并顺利取得自己所期望的成绩。
+> Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
 
-> 编辑者：YINXING
+> Editor: YINXING
