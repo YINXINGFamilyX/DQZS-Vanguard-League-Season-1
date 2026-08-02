@@ -114,7 +114,7 @@
 
     * 获得奖金池总金额的六分之五
 
-    * 直接获得 **YINXING x Future Star Festival Wildcard Closed Qualifier（银杏x明日之星嘉年华外卡封闭预选赛）** 的参赛资格
+    * 直接获得 **YINXING Future Star Festival Wildcard Closed Qualifier（银杏明日之星嘉年华外卡封闭预选赛）** 的参赛资格
 
   * 亚军：
 
