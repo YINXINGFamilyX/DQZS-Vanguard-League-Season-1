@@ -113,7 +113,7 @@
 
         - 5/6 of the total prize pool
 
-        - Direct qualification to the **YINXING x Future Star Festival Wildcard Closed Qualifier (银杏x明日之星嘉年华外卡封闭预选赛)**
+        - Direct qualification to the **YINXING Future Star Festival Wildcard Closed Qualifier (银杏明日之星嘉年华外卡封闭预选赛)**
 
     -   2nd Place:
 
@@ -128,7 +128,5 @@
 ---
 
 > Thank you for taking the time to read this document. We wish you an enjoyable tournament, a wonderful day, and every success in achieving your goals.
-
-> Last updated: July 26, 2026
 
 > Editor: YINXING
