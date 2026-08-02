@@ -16,7 +16,7 @@
 |10|2026-07-26 20:24|Legendary Titanium Tomato|⭕️ 注册成功 Registration Confirmed|
 |11|2026-07-27 12:29|revolt|⭕️ 注册成功 Registration Confirmed|
 |12|2026-07-27 15:56|DISSOLVE|⭕️ 注册成功 Registration Confirmed|
-|~~13~~|2026-07-27 17:57|~~Tianjin E9 Esports~~|违规取消资格 Disqualified for Rule Violation ❌️|
+|~~13~~|2026-07-27 17:57|~~Tianjin E9 Esports~~|违规取消资格 Disqualified for Violation ❌️|
 |14|2026-07-27 19:34|Continue Evolution|⭕️ 注册成功 Registration Confirmed|
 |15|2026-07-28 23:38|Passion TA|⭕️ 注册成功 Registration Confirmed|
 |16|2026-07-28 13:05|Starting From Ordinary|⭕️ 注册成功 Registration Confirmed|
