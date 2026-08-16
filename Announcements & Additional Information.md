@@ -1,6 +1,6 @@
 ## DQZS Vanguard League Season 1 (大秦之水先锋联赛)
 
-<sub>*DQZS Vanguard League Season 1 is an online Chinese Counter-Strike tournament organized by FamilyX*</sub>
+<sub>*DQZS Vanguard League Season 1 is an online Chinese Counter-Strike tournament organized by FamilyX Esports*</sub>
 
 -   Tournament Schedule
 
@@ -14,9 +14,9 @@
 
      -   Playoffs (Main Event Phase 2): August 6–13, 2026 
 
--   Tournament Operator: FamilyX
+-   Tournament Operator: FamilyX Esports
 
-     -   This tournament is independently organized and operated by FamilyX
+     -   This tournament is independently organized and operated by FamilyX Esports
 
 -   Tournament Official Sponsors
 
@@ -59,7 +59,7 @@
 
      -   2. Registration status and slot allocation will be updated [here](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information.md)
 
-     -   3. Once you have signed up, FamilyX will provide payment details via WeChat or X (Twitter) direct messages (DMs)
+     -   3. Once you have signed up, FamilyX Esports will provide payment details via WeChat or X (Twitter) direct messages (DMs)
 
      -   4. Pay the registration fee within 30 minutes to secure your registration slot
 
