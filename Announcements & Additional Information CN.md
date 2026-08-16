@@ -1,6 +1,6 @@
 ## DQZS Vanguard League Season 1（大秦之水先锋联赛）
 
-<sub>*大秦之水先锋联赛S1是FamilyX打造的CN赛区线上反恐精英电子竞技赛事*</sub>
+<sub>*大秦之水先锋联赛S1是FamilyX Esports打造的CN赛区线上反恐精英电子竞技赛事*</sub>
 
 * 赛事日程
 
@@ -14,9 +14,9 @@
 
   * 淘汰赛阶段（正赛第二阶段）：2026年8月6日至13日
 
-* 赛事运营方：FamilyX
+* 赛事运营方：FamilyX Esports
 
-  * 本赛事由 FamilyX 独立组织并运营
+  * 本赛事由 FamilyX Esports 独立组织并运营
 
 * 赛事官方合作伙伴
 
@@ -60,7 +60,7 @@
 
   * 2. 报名状态及名额分配情况将在[此页面](https://github.com/YINXINGFamilyX/DQZS-Vanguard-League-Season-1/blob/main/Play-In%20Stage%20Registration%20Information.md)中更新
 
-  * 3. 完成报名申请后，FamilyX 将通过微信或 X（Twitter）私信提供付款信息
+  * 3. 完成报名申请后，FamilyX Esports 将通过微信或 X（Twitter）私信提供付款信息
 
   * 4. 请在30分钟内支付报名费用，以确保获得相应的报名名额
 
