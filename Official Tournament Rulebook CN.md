@@ -751,7 +751,7 @@ A队与B队身份。
 
 包括但不限于：
 
-- FamilyX Ban；
+- FamilyX Esports Ban；
 - Valve Anti-Cheat Ban；
 - Perfect World Ban；
 - 5EPlay Ban；
@@ -773,9 +773,9 @@ A队与B队身份。
 
 ---
 
-## 11.3 FamilyX赛事禁赛
+## 11.3 FamilyX Esports赛事禁赛
 
-受到 FamilyX赛事禁赛处罚的个人或队伍，在处罚期限内不得参加由 FamilyX 组织或运营的赛事。
+受到 FamilyX Esports赛事禁赛处罚的个人或队伍，在处罚期限内不得参加由 FamilyX Esports 组织或运营的赛事。
 
 
 ---
@@ -787,7 +787,7 @@ A队与B队身份。
 所有参赛人员应维护：
 
 - 大秦之水先锋联赛S1；
-- FamilyX；
+- FamilyX Esports；
 - 赛事合作伙伴；
 
 的公开形象。
@@ -878,7 +878,7 @@ A队与B队身份。
 
 - 当前比赛取消资格；
 - 本届赛事禁赛；
-- FamilyX赛事禁赛。
+- FamilyX Esports赛事禁赛。
 
 
 ---
